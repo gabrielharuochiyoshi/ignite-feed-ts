@@ -18,6 +18,7 @@ Instale o projeto com o npm ou yarn
 - Programação declarativa
 - Gerenciamento de estado
 - Transcrição em Typescript
+- Clean Code
 
 
 ### Stack utilizada
